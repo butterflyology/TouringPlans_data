@@ -61,4 +61,4 @@ Here are the `shasum` / `md5` values for the `sqlite` database:
 
 ---
 
-If you find any problems with the repository or data integrity, please let me know and open an issue. 
+If you find any problems with the repository or data integrity, please let me know and open an [issue](https://github.com/butterflyology/TouringPlans_data/issues). 
